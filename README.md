@@ -1,5 +1,5 @@
 # Templates
-Templated content for easy usage. Content is created by 
+Templated content for easy usage. All uploaded content is created by myself. I will not upload any content by others then myself without explicit consent and/or reference of original author. 
 
 ## 1. Dashboards
 
