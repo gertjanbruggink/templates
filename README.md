@@ -1,5 +1,5 @@
 # Templates
-Templated content for easy usage. All uploaded content is created by myself. I will not upload any content by others then myself without explicit consent and/or reference of original author. Some of the content might be moved over to venation.digital, where we also curate and maintain these templates.
+Templated content for easy usage. All uploaded content is created by myself. I will not upload any content by others then myself without explicit consent and/or reference of original author. Some of the content might be moved over to www.venation.digital, where we also curate and maintain these templates.
 
 ## 1. Dashboards
 
