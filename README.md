@@ -17,4 +17,7 @@ If you are looking for a fun and engaging way to inform your organization on cur
 
 Visualizing threat scenarios or other events using various methods.
 
-I've created a Mural template for this purpose: https://app.mural.co/template/5024cb0e-597c-4da6-8087-aa2076293e43/3ef6fef3-c999-400c-a29d-6918d46cad74
+I've created a Mural template for Attack Trees based on the content presented at FIRST 2024: 
+https://app.mural.co/template/5024cb0e-597c-4da6-8087-aa2076293e43/3ef6fef3-c999-400c-a29d-6918d46cad74
+
+Over the next couple weeks, we will most likely create more templates and publishing them here.
